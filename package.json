@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
     "wouter": "2.12.1"
   },
   "devDependencies": {
@@ -22,4 +22,3 @@
     "autoprefixer": "^10.4.0"
   }
 }
-   
